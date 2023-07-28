@@ -1,3 +1,1 @@
-import _ from "./Header.component"
-
-export default _;
+export { default } from "./Header.component"
